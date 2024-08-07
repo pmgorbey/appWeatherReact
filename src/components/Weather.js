@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+// Weather Component
 export class Weather extends Component {
   render() {
     return (
